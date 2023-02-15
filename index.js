@@ -10,6 +10,8 @@
 
 
 // I. Variables & Data Types
+//var = apple 
+
 // A. Q + A
 // B. Strings
 // C. Booleans
